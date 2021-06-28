@@ -1,0 +1,50 @@
+body {
+    background: black;
+    color: white;
+}
+
+
+.dolgozoknak {
+    text-align: left;
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    background: yellow;
+    color: black;
+}
+.ugyfelnek {
+    text-align: right;
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    background: black;
+    color: yellow;
+    
+}
+.dolgozoknak :hover {
+  color: yellow;
+
+}
+.ugyfelnek :hover {
+  color: black;
+
+}
+p {
+  font-size: 25px;
+
+}
+button {
+  background: black;
+  border: none;
+
+}
+button :hover{
+  background: yellow;
+  color: black;
+  
+}
+h2{
+  color: lightgreen;
+  font: bolder;
+  font-family: 'Times New Roman', Times, serif;
+}
